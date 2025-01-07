@@ -8,4 +8,4 @@ We tested this dataset against a number of fairness definitions outlined in the 
 
 The above notebooks make use of a number of utility functions and classes, including a class that defines a ConfusionMatrix object and a probability bootstraping procedure in the util folder. 
 
-[TO-do] links to article. 
+You can read the resulting article at Svenska Dagbladet [here](https://www.svd.se/a/QMPexQ/fn-expert-kritiserar-forsakringskassans-ai-analyser-mot-vab-fusk)
